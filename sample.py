@@ -1,4 +1,4 @@
-"""print("    /")
+print("    /")
 print("   /|")
 print("  / |")
 
@@ -127,7 +127,7 @@ def say_hi(name, age):
 say_hi(" Vipul", 23)#Function call to line 124
 say_hi(" Chetan", 23)
 #print("Low")
-"""
+
 ################################################################################################################
 #Return Statement
 #Anything Raised to the Power Anything
